@@ -53,7 +53,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Opening Keynote by [Chris McCord](https://twitter.com/chris_mccord)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=qPiZTxUAaVM) 
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [2m connections in Phoenix](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
