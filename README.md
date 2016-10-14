@@ -107,7 +107,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### The future of deployment in Elixir by [Paul Schoenfelder](https://twitter.com/gotbones)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=0fuUtQFinZk)
 - [Slides](http://slides.com/paulschoenfelder/elixirconf2016#/)
 - Links:
     + [Distillery](https://github.com/bitwalker/distillery)
